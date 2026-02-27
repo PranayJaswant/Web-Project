@@ -11,4 +11,3 @@ Pages:
 - menu.html: A list of top sites presented in a table format.
 - about.html: Background information on the project mission.
 - contact.html: A functional-looking form for user inquiries.
--
